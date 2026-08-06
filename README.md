@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science / Software Engineering Student** at CSPC (`@my.cspc.edu.ph`)
+- 🎓 **Computer Science** at CSPC (`jasabio@my.cspc.edu.ph`)
 - 🛠️ Currently focusing on **Python Backend Development, SQL & Database Design**
 - 🚀 Working on scalable software projects
 
