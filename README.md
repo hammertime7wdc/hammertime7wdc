@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science** at CSPC (`jasabio@my.cspc.edu.ph`)
+- 🎓 **Computer Science / Software Engineering Student** at CSPC (`@my.cspc.edu.ph`)
 - 🛠️ Currently focusing on **Python Backend Development, SQL & Database Design**
 - 🚀 Working on scalable software projects
 
@@ -47,8 +47,14 @@
 
 ## 📬 Connect with Me
 
-- ✉️ **Email:** [jasabio@my.cspc.edu.ph](mailto:jasabio@my.cspc.edu.ph)
-- 🐙 **GitHub:** [@hammertime7wdc](https://github.com/hammertime7wdc)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabiojacob10@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-sabio-1673553b3/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/e.scorpion09/)
+[![CodeSignal](https://img.shields.io/badge/CodeSignal-1F1F1F?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/learn/profile/cmfb2mc4t000nl7048hvvhl3h)
+
+</div>
 
 <br>
 
