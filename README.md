@@ -1,6 +1,6 @@
 # 👋 Hi, I'm jsabio (@hammertime7wdc)
 
-> *"Always racing against time. Built for speed, precision, and performance."* 🏎️⏱️
+> *"Always racing against time. Built for speed, precision, and performance."*
 
 ---
 
@@ -24,14 +24,12 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammertime7wdc&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="jsabio's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hammertime7wdc&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hammertime7wdc&theme=dark&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammertime7wdc&theme=nightowl)
 
 ### 📬 Connect with Me
 
