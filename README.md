@@ -37,7 +37,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hammertime7wdc&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammertime7wdc&theme=nightowl)
+**Top Languages**
+
+![Under Construction](https://img.shields.io/badge/🚧%20Top%20Languages-Under%20Construction-orange?style=for-the-badge)
 
 </div>
 
