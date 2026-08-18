@@ -10,18 +10,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Computer Science Student** at CSPC (`@my.cspc.edu.ph`)
-- 🛠️ Currently focusing on **Python Backend Development, SQL & Database Design**
+- 🎓 **Computer Science Student** at CSPC
+- 🛠️ Currently Learning and focusing on **Python Backend Development, SQL & Database Design**
 - 🚀 Working on scalable software projects
 
 <br>
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages & Databases**
+**Tech Stack**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
+</a>
 
 **DevOps, Cloud & Tools**
 
@@ -57,6 +58,10 @@
 </div>
 
 <br>
+
+<p align="center">
+  <img src="giphy.gif" alt="Doofus Rick and Jerry" width="400"/>
+</p>
 
 <div align="center">
 
