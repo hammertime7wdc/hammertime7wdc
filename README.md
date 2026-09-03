@@ -50,7 +50,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabiojacob10@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-sabio-1673553b3/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/e.scorpion09/](https://www.instagram.com/pensive.o1/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/pensive.o1/))
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-1F1F1F?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/learn/profile/cmfb2mc4t000nl7048hvvhl3h)
 
 </div>
