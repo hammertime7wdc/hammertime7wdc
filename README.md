@@ -39,7 +39,6 @@
 **Top Languages**
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammertime7wdc&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
 </div>
 
 <br>
