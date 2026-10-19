@@ -38,7 +38,7 @@
 
 **Top Languages**
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammertime7wdc&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hammertime7wdc&layout=compact&theme=dark&hide_border=true&langs_count=6)
 </div>
 
 <br>
@@ -62,6 +62,6 @@
 
 <div align="center">
 
-### *"IT'S HAMMER TIME!"* 🏁
+### *"IT'S HAMMER TIME!"* 
 
 </div>
