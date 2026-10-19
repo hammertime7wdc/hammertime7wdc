@@ -38,7 +38,7 @@
 
 **Top Languages**
 
-![Under Construction](https://img.shields.io/badge/🚧%20Top%20Languages-Under%20Construction-orange?style=for-the-badge)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hammertime7wdc&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 </div>
 
