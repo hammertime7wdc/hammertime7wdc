@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm jsabio (@hammertime7wdc)
+# Hi, I'm jsabio (@hammertime7wdc)
 
 ### *"Always racing against time. Built for speed, precision, and performance."*
 
@@ -16,7 +16,7 @@
 
 <br>
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 **Tech Stack**
 
@@ -30,7 +30,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## 📬 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
