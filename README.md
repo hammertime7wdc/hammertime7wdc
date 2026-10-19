@@ -42,19 +42,15 @@
 
 **Languages & Databases**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,mysql&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,mysql&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages and databases">
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Languages and databases" />
+</a>
 
 **DevOps, Cloud & Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,supabase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,supabase&theme=light">
-  <img src="https://skillicons.dev/icons?i=git,github,supabase" alt="Tools">
-</picture>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,supabase" alt="Tools" />
+</a>
 
 </div>
 
