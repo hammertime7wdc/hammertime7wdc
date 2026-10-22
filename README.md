@@ -94,7 +94,7 @@
 
 <br>
 
-### *"IT'S HAMMER TIME!"* 🏁
+### *"IT'S HAMMER TIME!"* 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer">
