@@ -25,18 +25,18 @@
 
 <br>
 
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" width="300" src="giphy.gif" alt="Doofus Rick and Jerry"/>
 
-- 🎓 **Computer Science Student** at CSPC
-- 🛠️ Learning and focusing on **Python Backend Development, SQL & Database Design**
-- 🚀 Working on scalable software projects
-- ⚡ Fueled by speed, precision, and caffeine
+- **Computer Science Student** at CSPC
+- Learning and focusing on **Python Backend Development, SQL & Database Design**
+- Working on scalable software projects
+- Fueled by speed, precision, and caffeine
 
 <br clear="right"/>
 
-## 🧰 Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 <br>
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
