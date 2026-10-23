@@ -20,7 +20,7 @@
 <td valign="middle">
 
 - **Computer Science Student** at CSPC
-- Learning and focusing on **Python Backend Development, SQL & Database Design**
+- Learning and focusing on **Python Backend Development, SQL & Database Design** (for now)
 - Working on scalable software projects (for now)
 - Aiming to get really good at **image recognition and computer vision**
 - Fueled by speed, precision, and caffeine
