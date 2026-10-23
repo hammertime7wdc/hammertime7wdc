@@ -25,7 +25,7 @@
 
 <br clear="right"/>
 
-<p align="center"><img src="assets/pipeline.svg" alt="Sense, Preprocess, Detect, Classify, Track, Decide, Act" width="100%"></p>
+
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
