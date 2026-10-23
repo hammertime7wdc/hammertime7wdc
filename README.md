@@ -18,8 +18,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hammertime7wdc&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/hammertime7wdc?style=for-the-badge&color=ff6b35&logo=github)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 </div>
 
