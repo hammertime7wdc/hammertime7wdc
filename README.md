@@ -9,7 +9,7 @@
 
 </div>
 
-<p align="center"><img src="assets/operator.svg" alt="Operator profile" width="100%"></p>
+<p align="center"><img src="assets/operator.svg" alt="Contractor profile" width="100%"></p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
