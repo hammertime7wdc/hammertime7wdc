@@ -15,7 +15,9 @@
 
 ### // About Me
 
-<img align="right" width="260" src="assets/radar.svg" alt="Radar sweep"/>
+<table>
+<tr>
+<td valign="middle">
 
 - **Computer Science Student** at CSPC
 - Learning and focusing on **Python Backend Development, SQL & Database Design**
@@ -23,9 +25,14 @@
 - Aiming to get really good at **image recognition and computer vision**
 - Fueled by speed, precision, and caffeine
 
-<br clear="right"/>
+</td>
+<td width="280" align="center" valign="middle">
 
+<img src="assets/radar.svg" alt="Radar sweep" width="260">
 
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
