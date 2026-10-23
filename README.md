@@ -1,41 +1,35 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=jsabio&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=@hammertime7wdc&descSize=22&descAlignY=58">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=jsabio&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=@hammertime7wdc&descSize=22&descAlignY=58">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=jsabio&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=@hammertime7wdc&descSize=22&descAlignY=58" width="100%" alt="Header">
-</picture>
-
-<a href="https://git.io/typing-svg">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=Always+racing+against+time.;Built+for+speed%2C+precision%2C+and+performance.;Python+%7C+SQL+%7C+Backend+Development;IT'S+HAMMER+TIME!+%F0%9F%8F%81">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=D9480F&center=true&vCenter=true&width=700&lines=Always+racing+against+time.;Built+for+speed%2C+precision%2C+and+performance.;Python+%7C+SQL+%7C+Backend+Development;IT'S+HAMMER+TIME!+%F0%9F%8F%81">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=700&lines=Always+racing+against+time.;Built+for+speed%2C+precision%2C+and+performance.;Python+%7C+SQL+%7C+Backend+Development;IT'S+HAMMER+TIME!+%F0%9F%8F%81" alt="Typing SVG">
-  </picture>
-</a>
+<img src="assets/header.svg" alt="jsabio @hammertime7wdc" width="100%">
 
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hammertime7wdc&color=ff6b35&style=for-the-badge&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/hammertime7wdc?style=for-the-badge&color=ff6b35&logo=github)
 
-
 </div>
 
-<br>
+<p align="center"><img src="assets/operator.svg" alt="Operator profile" width="100%"></p>
 
-## About Me
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+### // About Me
 
 <img align="right" width="300" src="giphy.gif" alt="Doofus Rick and Jerry"/>
 
 - **Computer Science Student** at CSPC
 - Learning and focusing on **Python Backend Development, SQL & Database Design**
-- Working on scalable software projects
+- Working on scalable software projects (for now)
+- Aiming to get really good at **image recognition and computer vision**
 - Fueled by speed, precision, and caffeine
 
 <br clear="right"/>
 
-## Tech Stack & Tools
+<p align="center"><img src="assets/pipeline.svg" alt="Sense, Preprocess, Detect, Classify, Track, Decide, Act" width="100%"></p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
+
+### // Tech Stack & Tools
 
 <div align="center">
 
@@ -53,9 +47,9 @@
 
 </div>
 
-<br>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-## GitHub Stats
+### // GitHub Stats
 
 <div align="center">
 
@@ -80,9 +74,9 @@
 
 </div>
 
-<br>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%"></p>
 
-## Connect with Me
+### // Connect with Me
 
 <div align="center">
 
@@ -93,12 +87,6 @@
 
 <br>
 
-### *"IT'S HAMMER TIME!"* 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" width="100%" alt="Footer">
-</picture>
+<img src="assets/footer.svg" alt="IT'S HAMMER TIME!" width="100%">
 
 </div>
