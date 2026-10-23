@@ -15,7 +15,7 @@
 
 ### // About Me
 
-<img align="right" width="300" src="giphy.gif" alt="Doofus Rick and Jerry"/>
+<img align="right" width="260" src="assets/radar.svg" alt="Radar sweep"/>
 
 - **Computer Science Student** at CSPC
 - Learning and focusing on **Python Backend Development, SQL & Database Design**
@@ -86,6 +86,10 @@
 [![CodeSignal](https://img.shields.io/badge/CodeSignal-1F1F1F?style=for-the-badge&logo=codesignal&logoColor=white)](https://codesignal.com/learn/profile/cmfb2mc4t000nl7048hvvhl3h)
 
 <br>
+
+<img width="300" src="giphy.gif" alt="Doofus Rick and Jerry">
+
+<br><br>
 
 <img src="assets/footer.svg" alt="IT'S HAMMER TIME!" width="100%">
 
